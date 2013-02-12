@@ -7,9 +7,13 @@
   },
   "description": "",
   "version": "0.1.0",
-  "dependencies": {},
+  "dependencies": {
+    "abc": "0.5.x",
+    "fsa": "0.5.x",
+    "flac": "0.2.x"
+  },
   "devDependencies": {
-    "abc": "0.4.x"
+    "tc": "0.5.x"
   },
   "optionalDependencies": {},
   "engines": {
