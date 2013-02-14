@@ -10,7 +10,7 @@
   "dependencies": {
     "abc": "0.5.x",
     "fsa": "0.5.x",
-    "flac": "0.2.2"
+    "flac": "0.3.x"
   },
   "devDependencies": {
     "tc": "0.5.x"

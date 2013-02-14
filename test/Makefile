@@ -4,4 +4,8 @@ build:
 test:
 	node ../node_modules/tc/bin/tc case
 
-.PHONY : test build
+clean:
+	rm -rf build
+	rm -rf src/.m-in
+
+.PHONY : test build clean
